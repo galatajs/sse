@@ -1,0 +1,12 @@
+{
+  "name": "@istanbul/sse",
+  "version": "0.0.1",
+  "description": "SSE package of Istanbul Framework",
+  "keywords": [
+    "istanbul",
+    "istanbuljs",
+    "sse"
+  ],
+  "author": "Sami Salih İBRAHİMBAŞ",
+  "license": "MIT"
+}
